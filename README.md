@@ -69,6 +69,16 @@ All trademarks, game titles and related intellectual property belong to their re
 
 This project is intended for educational and homebrew purposes. No copyrighted game content, firmware or encryption keys are distributed here.
 
+## Build Information
+
+This PS5 port is based on the original Eglantine project:
+
+- **Base version:** `nx2-build-34`
+- **Source commit:** `3140648a668aaebf87bae2dea17512fdca125ba0`
+
+This information is provided to help track the upstream development
+and identify the source version used for this build.
+
 ---
 
 **Unofficial EglantinePS5 Custom Builds**
