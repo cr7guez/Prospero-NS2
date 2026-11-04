@@ -74,7 +74,7 @@ This project is intended for educational and homebrew purposes. No copyrighted g
 This PS5 port is based on the original Eglantine project:
 
 - **Base version:** `nx2-build-34`
-- **Source commit:** `3140648a668aaebf87bae2dea17512fdca125ba0`
+- **Source commit:** [`3140648a668aaebf87bae2dea17512fdca125ba0`](https://github.com/Djihads80/Eglantine/commit/3140648a668aaebf87bae2dea17512fdca125ba0)
 
 This information is provided to help track the upstream development
 and identify the source version used for this build.
